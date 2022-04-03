@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Test
+// @name         Spunch-r-place
 // @namespace    non
 // @homepageURL  non
-// @version      1.0.13
-// @description  FLOSS forever!
-// @author       anon
+// @version      1.0.0
+// @description  SPUNCH
+// @author       lordoffatcats
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
